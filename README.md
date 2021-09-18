@@ -28,16 +28,27 @@
 
 <div align="center">
 
-## **Social Media**
+## **Daily Works**
 
-[![Linkedin: kukuh-satrio-wibowo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-satrio-wibowo/)
-[![Facebook: Kukuh Satrio](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ksatriow/)
-[![Gmail: Kukuh Satrio Wibowo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kukuhsatriowibowo@gmail.com)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](kukuhsatriowibowo@gmail.com)
+<!--START_SECTION:waka-->
+
+```text
+🌞 Morning    48 commits    █████████████░░░░░░░░░░░░   28.57% 
+🌆 Daytime    34 commits    ██████████░░░░░░░░░░░░░░░   20.23% 
+🌃 Evening    30 commits    █████████░░░░░░░░░░░░░░░░   17.85% 
+🌙 Night     56 commits    ███████████████░░░░░░░░░░   30.00%
+
+```
 
 </div>
 
 </br>
+
+<div align="center">
+
+## **My Work Tools**
+
+</div>
 
 <details>
  <summary> <b> Programming Languages </b>: </summary>
@@ -51,6 +62,18 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+</details>
+<!--END_SECTION:waka-->
+
+<details>
+ <summary> <b> IDE </b>: </summary>
+<br>
+
+<!--START_SECTION:waka-->
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 </details>
 <!--END_SECTION:waka-->
 
@@ -69,26 +92,17 @@
 <!--END_SECTION:waka-->
 
 <details>
- <summary> <b> Design </b>: </summary>
+ <summary> <b> Hosting && Cloud </b>: </summary>
 <br>
 
 <!--START_SECTION:waka-->
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 </details>
 
-<details>
- <summary> <b> IDE </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-</details>
-<!--END_SECTION:waka-->
 
 <details>
  <summary> <b> Version Control </b>: </summary>
@@ -102,6 +116,43 @@
 </details>
 <!--END_SECTION:waka-->
 
+<details>
+ <summary> <b> Database </b>: </summary>
+<br>
+
+<!--START_SECTION:waka-->
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
+<details>
+ <summary> <b> Design </b>: </summary>
+<br>
+
+<!--START_SECTION:waka-->
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</details>
+
+</br>
+
+<div align="center">
+
+## **Social Account**
+
+</br>
+
+[![Linkedin: kukuh-satrio-wibowo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-satrio-wibowo/)
+[![Facebook: Kukuh Satrio](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ksatriow/)
+[![Gmail: Kukuh Satrio Wibowo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kukuhsatriowibowo@gmail.com)
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](kukuhsatriowibowo@gmail.com)
+![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
+</div>
+
+</br>
 </br>
 
 <a href="https://github.com/ksatriow">
