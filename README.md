@@ -21,14 +21,14 @@
     Skilled Android, DevOps and IoT Engineer with 2+ years of hands-on experience created, maintained and released application and supporting, automating, and optimizing deployments in AWS, CI / CD, and DevOps processes.
 </p>
 <p align="center">
-    High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build orld-class android applications while facilitating organization in achieving functional goals.
+    High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class android applications while facilitating organization in achieving functional goals.
 </p>
 
 </br>
 
 <div align="center">
 
-## **Daily Works**
+## **Weekly Works**
 
 <!--START_SECTION:waka-->
 
