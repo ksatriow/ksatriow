@@ -1,6 +1,6 @@
 <div align="center">
 
-## **[Personal Profile](https://www.linkedin.com/in/kukuh-satrio-wibowo/)**
+## **[Personal Profile](https://satrioportofilio.netlify.app/)**
 
 </div>
 
