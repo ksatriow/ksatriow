@@ -8,24 +8,59 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/bannerku.gif" height="auto" width="100%">
+  <img src="./assets/banner.gif" height="auto" width="100%">
 </p>
+</br>
 
 <div align="center">
 
 ## **About Me**
 
 </div>
+</br>
 
 <p align="center">
-    Skilled Android, DevOps and IoT Engineer with 4+ years of hands-on experience created, maintained and released application and supporting, automating, and optimizing deployments in AWS, CI / CD, and DevOps processes.
+    Skilled Android, DevOps and IoT Engineer with 4+ years of hands-on experience created, maintained and released application and supporting, automating, and optimizing deployments in AWS, CI / CD, and DevOps processes. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment.
 </p>
 <p align="center">
-    High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class android applications while facilitating organization in achieving functional goals.
+    High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class android applications while facilitating organization in achieving functional goals. 
 </p>
 
 </br>
 
+<div align="center">
+
+## **Work Experiences**
+
+</div>
+</br>
+
+**Freelance Software Engineer (Android, Cyber Security)** 
+[**Upwork & Fiverr**](https://www.upwork.com/) • Full-time  May 2022 – Present 🏣 Remote
+- Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
+
+------------
+
+**Software Engineer (Android)** 
+[**FisTx**](https://fistx.co.id/) • Part-time  Des 2021 – Present 🏣 Jakarta, Indonesia 🕓  11 mos
+- Implement automation and control IoT device using FisTX apps.
+- Implement mainflux to manage and communicate between FisTX apps and IoT device.
+- Communicating IoT device to Mainflux using HTTP, MQTT and LoRa protocol.
+- Migrating to MVVM Arch, dagger hilt and implement security (encryption and ssl pinning) in FisTX app.
+
+------------
+
+**Software Engineer (Android)** 
+[**Schoters**](https://www.schoters.com/id) • Full-time  Nov 2018 – Aug 2019 🏣 Jakarta, Indonesia 🕓  10 mos
+- Developed recommendation and search engine backend services and successfully increased the average of user’s visit duration in Schoters mobile app and website.
+- Created, maintained and released Schoters app included on the featured list in Google Play Store.
+- Perform installation of server, storage and application.
+- Establish monitoring environment for cloud resources, IT servers, and reports activity.
+- Maintenance AWS related to infrastructure.
+- Implement MVVM Architecture, RxJava, Qiscus and Midtrans.
+
+
+</br>
 <div align="center">
 
 ## **Weekly Works**
@@ -33,113 +68,318 @@
 <!--START_SECTION:waka-->
 
 ```text
-🌞 Morning    48 commits    █████████████░░░░░░░░░░░░   28.57% 
+🌞 Morning    24 commits    █████████████░░░░░░░░░░░░   28.57% 
 🌆 Daytime    34 commits    ██████████░░░░░░░░░░░░░░░   20.23% 
 🌃 Evening    30 commits    █████████░░░░░░░░░░░░░░░░   17.85% 
 🌙 Night     56 commits    ███████████████░░░░░░░░░░   30.00%
 
 ```
-
 </div>
 
 </br>
 
 <div align="center">
 
-## **My Work Tools**
+## **Skills**
 
 </div>
 
-<details>
- <summary> <b> Programming Languages </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-</details>
-<!--END_SECTION:waka-->
-
-<details>
- <summary> <b> IDE </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-</details>
-<!--END_SECTION:waka-->
-
-<details>
- <summary> <b> Framework </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-</details>
-<!--END_SECTION:waka-->
-
-<details>
- <summary> <b> Hosting && Cloud </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-</details>
-
-
-<details>
- <summary> <b> Version Control </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-</details>
-<!--END_SECTION:waka-->
-
-<details>
- <summary> <b> Database </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</details>
-
-<details>
- <summary> <b> Design </b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</details>
+ |  Category | Skills |
+| ------------ | ------------ |
+|  UI | Material Design, Jetpack Compose UI |
+| Android Core  | Broadcast Receivers, Services, Flavours |
+| Music  | Media Player, Exo Player|
+|  Databases | Firebase, MySQL, Room, AWS  |
+|  Architecture & Desing Pattern  | MVVM, MVP, Modularizaition, Clean Archtecture  |
+| Jetpack Libraries   | Paging, Coroutines, LiveData, Flow, Work Manager, Data Store, Dagger Hilt, Jetpack Navigation, Jetpack Compose (Beginner Level) |
+| Payment Gateway’s  | Midtrans, Google Billing SDK, In App purchase  |
+| Backend Integration  |  GraphQL, Rest API |
+| Firebase  |  App Distribution, Crashlytics, Analytics, Storage, Firestore, Realtime Database, Authentication, FCM, Remote Config, Dynamic Links  |
+| SDUI (Server Driven UI)  |  Epoxy, Pattern designing, Mapping, Error Handling, Forum Builder, Custom Component designing  |
+|  Google Maps & Location services | Realtime Tracking apps and Map related functionality, Geo-fencing, Uber clone, etc  |
+| CICD | Github Action (With Firebase Distribution  PlayStore), Fastlane(with Firebase Distribution) |
+| VCS | Git, Github, Gitlab, Bitbucket |
+| Other |Custom Library , SDK designing ||
+etc...
 
 </br>
 
 <div align="center">
+<details>
+ <summary>
+
+## **Work Tools**
+ 
+ </summary>
+
+#### **Programming Languages**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>C
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/344/kotlin.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/344/python.png" width="24" height="24" alt="Gradle" />
+      </a>
+      <br>Python
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/344/javascript--v1.png" width="24" height="24" alt="Github" />
+      </a>
+      <br>Javacript
+    </td>
+  </tr>
+</table>
+
+
+
+#### **IDE**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/fluency/344/android-os.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>Android Studio
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/344/intellij-idea.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>IntelliJ IDEA
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>VS Code
+    </td>
+	   </td>
+	  <td align="center" width="120">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/fluency/344/jupyter.png" width="24" height="24" alt="Gradle" />
+      </a>
+      <br>Jupyter Notebook
+    </td>
+	   </td>
+  </tr>
+</table>
+
+#### **Frameworks**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/452/nodejs.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>NodeJS
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/fluency/344/node-js.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>Express.js
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/flutter.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>Flutter
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/344/vue-js.png" width="24" height="24" alt="Gradle" />
+      </a>
+      <br>Vue.js
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/stickers/344/laravel.png" width="24" height="24" alt="Github" />
+      </a>
+      <br>Laravel
+    </td>
+  </tr>
+</table>
+
+</br>
+
+#### **Version Control**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/git.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>Git
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/github.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>GitHub
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/gitlab.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>GitLab
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/bitbucket.png" width="24" height="24" alt="Gradle" />
+      </a>
+      <br>Bitbucket
+    </td>
+	   </td>
+  </tr>
+</table>
+
+</br>
+
+#### **Databases**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/mysql-logo.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>MySQL
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/postgreesql.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>Postgres
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>SQLite
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/mongodb.png" width="24" height="24" alt="Gradle" />
+      </a>
+      <br>MongoDB
+    </td>
+	   </td>
+  </tr>
+</table>
+
+</br>
+
+#### **Designs**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/adobe-photoshop.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>Photoshop
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/doodle/2x/canva.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>Canva
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/figma.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>Figma
+    </td>
+	   </td>
+  </tr>
+</table>
+
+</br>
+
+#### **Hosting & Cloud**
+</br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/amazon-web-services.png" width="24" height="24" alt="Android" />
+      </a>
+      <br>AWS
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/google-cloud.png" width="24" height="24" alt="Java" />
+      </a>
+      <br>Google Cloud
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/2x/heroku.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>Heroku
+    </td>
+	   </td>
+     	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>Netlify
+    </td>
+	   </td>
+     	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-1024.png" width="24" height="24" alt="Kotlin" />
+      </a>
+      <br>DigitalOcean
+    </td>
+	   </td>
+  </tr>
+</table>
+</details>
+</div>
+
+
+</br>
+</br>
+<div align="center">
+
+
 
 ## **Social Account**
 
@@ -147,7 +387,7 @@
 
 [![Linkedin: kukuh-satrio-wibowo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-satrio-wibowo/)
 [![Facebook: Kukuh Satrio](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ksatriow/)
-[![Gmail: Kukuh Satrio Wibowo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kukuhsatriowibowo@gmail.com)
+[![Gmail: Kukuh Satrio Wibowo](https://img.shields.io/badge/Gmail-D12436?style=for-the-badge&logo=gmail&logoColor=white)](kukuhsatriowibowo@gmail.com)
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](kukuhsatriowibowo@gmail.com)
 ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
 </div>
@@ -161,3 +401,6 @@
 <a href="https://github.com/ksatriow">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksatriow&show_icons=true&theme=light&line_height=27" alt="Kukuh's github stats"/>
 </a>
+
+</br>
+
