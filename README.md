@@ -36,13 +36,13 @@
 </br>
 
 **Freelance Software Engineer (Android, Cyber Security)** 
-[**Upwork & Fiverr**](https://www.upwork.com/) • Full-time  May 2022 – Present 🏣 Remote
+[**Upwork & Fiverr**](https://www.fiverr.com/) • Full-time  Jan 2020 – Present 🏣 Remote
 - Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
 
 ------------
 
 **Software Engineer (Android)** 
-[**FisTx**](https://fistx.co.id/) • Part-time  Des 2021 – Present 🏣 Jakarta, Indonesia 🕓  11 mos
+[**FisTx**](https://fistx.co.id/) • Part-time  Des 2021 – Present 🏣 Jakarta, Indonesia 🕓  7 mos
 - Implement automation and control IoT device using FisTX apps.
 - Implement mainflux to manage and communicate between FisTX apps and IoT device.
 - Communicating IoT device to Mainflux using HTTP, MQTT and LoRa protocol.
