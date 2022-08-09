@@ -90,13 +90,13 @@
 | Android Core  | Broadcast Receivers, Services, Flavours |
 | Music  | Media Player, Exo Player|
 |  Databases | Firebase, MySQL, Room, AWS  |
-|  Architecture & Desing Pattern  | MVVM, MVP, Modularizaition, Clean Archtecture  |
+|  Architecture & Design Pattern  | MVVM, MVP, Modularization, Clean Architecture  |
 | Jetpack Libraries   | Paging, Coroutines, LiveData, Flow, Work Manager, Data Store, Dagger Hilt, Jetpack Navigation, Jetpack Compose (Beginner Level) |
 | Payment Gateway’s  | Midtrans, Google Billing SDK, In App purchase  |
-| Backend Integration  |  GraphQL, Rest API |
+| Backend Integration  |  Rest API, GraphQL  |
 | Firebase  |  App Distribution, Crashlytics, Analytics, Storage, Firestore, Realtime Database, Authentication, FCM, Remote Config, Dynamic Links  |
 | SDUI (Server Driven UI)  |  Epoxy, Pattern designing, Mapping, Error Handling, Forum Builder, Custom Component designing  |
-|  Google Maps & Location services | Realtime Tracking apps and Map related functionality, Geo-fencing, Uber clone, etc  |
+|  Google Maps & Location services | Realtime Tracking apps and Map related functionality, Geo-fencing, Mapbox, etc  |
 | CICD | Github Action (With Firebase Distribution  PlayStore), Fastlane(with Firebase Distribution) |
 | VCS | Git, Github, Gitlab, Bitbucket |
 | Other |Custom Library , SDK designing ||
