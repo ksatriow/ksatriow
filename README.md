@@ -35,6 +35,10 @@
 </div>
 </br>
 
+**Mobile Devops (Devops)** 
+[**Delivery Hero**](https://www.deliveryhero.com/) • Full-time  June 2023 – Present 🏣 Remote
+- Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
+
 **Freelance Software Engineer (Android, Cyber Security)** 
 [**Upwork & Fiverr**](https://www.fiverr.com/) • Full-time  Jan 2020 – Present 🏣 Remote
 - Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
