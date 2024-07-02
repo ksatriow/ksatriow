@@ -37,7 +37,12 @@
 
 **Mobile Devops (Devops)** 
 [**Delivery Hero**](https://www.deliveryhero.com/) • Full-time  June 2023 – Present 🏣 Remote
-- Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
+- Design, implement, and maintain CI/CD pipelines for mobile applications.
+- Automate build, test, and deployment processes to ensure rapid and reliable releases.
+- Manage and optimize infrastructure for mobile application development, including build servers, testing environments, and deployment platforms.
+- Monitor and ensure the scalability, performance, and security of mobile app infrastructure.
+- Implement and maintain tools for code quality, automated testing, and performance monitoring.
+- Set up and maintain monitoring and alerting systems for mobile applications and infrastructure.
 
 **Freelance Software Engineer (Android, Cyber Security)** 
 [**Upwork & Fiverr**](https://www.fiverr.com/) • Full-time  Jan 2020 – Present 🏣 Remote
