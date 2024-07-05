@@ -20,7 +20,7 @@
 </br>
 
 <p align="center">
-    Skilled Android, DevOps and IoT Engineer with 4+ years of hands-on experience created, maintained and released application and supporting, automating, and optimizing deployments in AWS, CI / CD, and DevOps processes. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment.
+    Skilled Android, DevOps and IoT Engineer with 6+ years of hands-on experience created, maintained and released application and supporting, automating, and optimizing deployments in AWS, CI / CD, and DevOps processes. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment.
 </p>
 <p align="center">
     High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class android applications while facilitating organization in achieving functional goals. 
@@ -36,7 +36,7 @@
 </br>
 
 **Mobile Devops (Devops)** 
-[**Delivery Hero**](https://www.deliveryhero.com/) • Full-time  June 2023 – Present 🏣 Remote
+[**Delivery Hero**](https://www.deliveryhero.com/) • Full-time  June 2024 – Present 🏣 Remote
 - Design, implement, and maintain CI/CD pipelines for mobile applications.
 - Automate build, test, and deployment processes to ensure rapid and reliable releases.
 - Manage and optimize infrastructure for mobile application development, including build servers, testing environments, and deployment platforms.
