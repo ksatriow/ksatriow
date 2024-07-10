@@ -72,19 +72,6 @@
 </br>
 <div align="center">
 
-## **Weekly Works**
-
-<!--START_SECTION:waka-->
-
-```text
-🌞 Morning    24 commits    █████████████░░░░░░░░░░░░   28.57% 
-🌆 Daytime    34 commits    ██████████░░░░░░░░░░░░░░░   20.23% 
-🌃 Evening    30 commits    █████████░░░░░░░░░░░░░░░░   17.85% 
-🌙 Night     56 commits    ███████████████░░░░░░░░░░   30.00%
-
-```
-</div>
-
 </br>
 
 <div align="center">
@@ -397,8 +384,7 @@ etc...
 [![Linkedin: kukuh-satrio-wibowo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-satrio-wibowo/)
 [![Facebook: Kukuh Satrio](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ksatriow/)
 [![Gmail: Kukuh Satrio Wibowo](https://img.shields.io/badge/Gmail-D12436?style=for-the-badge&logo=gmail&logoColor=white)](kukuhsatriowibowo@gmail.com)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](kukuhsatriowibowo@gmail.com)
-![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
+
 </div>
 
 </br>
