@@ -17,6 +17,7 @@ jobs:
       - name: Cek Path & Execute Command Update
         run: |
           pwd
+          ls -l
       # - name: UPDATE DATE_NOW
       #   run: |
       #     echo $date > DATE_NOW
