@@ -22,6 +22,7 @@ jobs:
         run: |
           sed -i -e "s|<strong>date : .*<\/strong>|<strong>date : DATE_PLACEHOLDER</strong>|" -e "s|<strong>time : .*<\/strong>|<strong>time : TIME_PLACEHOLDER</strong>|" README.md
           sed -i -e "s|DATE_PLACEHOLDER|$(date +'%Y-%m-%d')|g" -e "s|TIME_PLACEHOLDER|$(date +'%H:%M:%S')|g" README.md
+          cat README.md
       # - name: Commit
       #   run: |          
       #     git config --local user.email "${{ secrets.EMAIL }}"
