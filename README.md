@@ -5,6 +5,11 @@
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ksatriow&label=Views&color=blue&style=plastic" alt="ksatriow" /> </p>
+
+<p align="center">
+  <strong>date : 2024-07-16</strong>
+  <strong>time : 00:23:29</strong>
+</p>
 <br/>
 
 <p align="center">
