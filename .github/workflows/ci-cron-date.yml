@@ -16,7 +16,7 @@ jobs:
          fetch-depth: 0
       - name: Set date variable
         run: |
-          echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "date=$(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
       - name: Write into DATE_NOW.md
         run: |
           echo $date > DATE_NOW.md
