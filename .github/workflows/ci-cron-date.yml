@@ -3,7 +3,7 @@ name: CI CRON UPDATE DATE
 on:
   push:
     branches:
-      - develop
+      - main
   schedule:
   - cron: "1 0 * * *"
 jobs:
