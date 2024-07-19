@@ -1,9 +1,9 @@
 name: CI CRON UPDATE DATE
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
   - cron: "1 0 * * *"
 jobs:
