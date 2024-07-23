@@ -7,10 +7,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ksatriow&label=Views&color=blue&style=plastic" alt="ksatriow" /> </p>
 <br/>
 
-<p align="center">
-  <img src="./assets/banner.gif" height="auto" width="100%">
-</p>
-</br>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=23789E&center=true&vCenter=true&width=435&lines=Kukuh+Satrio+Wibowo)](https://git.io/typing-svg)
+
+</div>
+
+
 
 <div align="center">
 
@@ -35,39 +38,59 @@
 </div>
 </br>
 
-**Mobile Devops (Devops)** 
-[**Delivery Hero**](https://www.deliveryhero.com/) • Full-time  June 2024 – Present 🏣 Remote
+**Mobile Devops (Devops)** [**Delivery Hero**](https://www.deliveryhero.com/) • Full-time 🏣 Remote
+<summary>Responsibilities</summary>
+<p>
+
 - Design, implement, and maintain CI/CD pipelines for mobile applications.
 - Automate build, test, and deployment processes to ensure rapid and reliable releases.
 - Manage and optimize infrastructure for mobile application development, including build servers, testing environments, and deployment platforms.
 - Monitor and ensure the scalability, performance, and security of mobile app infrastructure.
 - Implement and maintain tools for code quality, automated testing, and performance monitoring.
 - Set up and maintain monitoring and alerting systems for mobile applications and infrastructure.
+</p>
+<br>
 
 **Freelance Software Engineer (Android, Cyber Security)** 
-[**Upwork & Fiverr**](https://www.fiverr.com/) • Full-time  Jan 2020 – Present 🏣 Remote
+[**Upwork & Fiverr**](https://www.fiverr.com/) • Full-time 🏣 Remote 2 year
+
+<details><summary>Responsibilities</summary>
+<p>
+
 - Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
 
-------------
+</p>
+</details>
+<br>
 
 **Software Engineer (Android)** 
-[**FisTx**](https://fistx.co.id/) • Part-time  Des 2021 – Present 🏣 Jakarta, Indonesia 🕓  7 mos
+[**FisTx**](https://fistx.co.id/) • Part-time  🏣 Jakarta, Indonesia 🕓  7 mos
+
+<details><summary>Responsibilities</summary>
+<p>
+
 - Implement automation and control IoT device using FisTX apps.
 - Implement mainflux to manage and communicate between FisTX apps and IoT device.
 - Communicating IoT device to Mainflux using HTTP, MQTT and LoRa protocol.
 - Migrating to MVVM Arch, dagger hilt and implement security (encryption and ssl pinning) in FisTX app.
 
-------------
+</p>
+</details>
+<br>
 
 **Software Engineer (Android)** 
-[**Schoters**](https://www.schoters.com/id) • Full-time  Nov 2018 – Aug 2019 🏣 Jakarta, Indonesia 🕓  10 mos
+[**Schoters**](https://www.schoters.com/id) • Full-time 🏣 Jakarta, Indonesia 🕓  1 year
+<details><summary>Responsibilities</summary>
+<p>
 - Developed recommendation and search engine backend services and successfully increased the average of user’s visit duration in Schoters mobile app and website.
 - Created, maintained and released Schoters app included on the featured list in Google Play Store.
 - Perform installation of server, storage and application.
 - Establish monitoring environment for cloud resources, IT servers, and reports activity.
 - Maintenance AWS related to infrastructure.
 - Implement MVVM Architecture, RxJava, Qiscus and Midtrans.
-
+</p>
+</details>
+<br>
 
 </br>
 <div align="center">
@@ -76,16 +99,19 @@
 
 <div align="center">
 
-## **Skills**
+
 
 </div>
+
+<details><summary><b><h style="font-size: 20px;">Android Skill</h3></b></summary>
+<p>
 
  |  Category | Skills |
 | ------------ | ------------ |
 |  UI | Material Design, Jetpack Compose UI |
 | Android Core  | Broadcast Receivers, Services, Flavours |
 | Music  | Media Player, Exo Player|
-|  Databases | Firebase, MySQL, Room, AWS  |
+|  Databases | Firebase, MySQL, Room, Postgresql,  |
 |  Architecture & Design Pattern  | MVVM, MVP, Modularization, Clean Architecture  |
 | Jetpack Libraries   | Paging, Coroutines, LiveData, Flow, Work Manager, Data Store, Dagger Hilt, Jetpack Navigation, Jetpack Compose (Beginner Level) |
 | Payment Gateway’s  | Midtrans, Google Billing SDK, In App purchase  |
@@ -98,15 +124,14 @@
 | Other |Custom Library , SDK designing ||
 etc...
 
+</p>
+</details>
+<br>
+
+
 </br>
 
-<div align="center">
-<details>
- <summary>
-
-## **Work Tools**
- 
- </summary>
+<details><summary><b><h style="font-size: 20px;">Working</h3></b></summary>
 
 #### **Programming Languages**
 </br>
