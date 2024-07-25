@@ -114,8 +114,7 @@ Performing network / web penetration tests (white/black box)
 
 </div>
 
-<details><summary><b><h style="font-size: 20px;">Tech Stack and Tools
-</h3></b></summary>
+<details><summary><b><h2>Tech Stack & Tools</h2></b></summary>
 <p>
 
 | End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
@@ -125,8 +124,7 @@ Performing network / web penetration tests (white/black box)
 | ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Golang](https://img.shields.io/badge/-Go-white?style=flat&logo=go) ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express) ![Ktor](https://img.shields.io/badge/-Ktor-white?style=flat&logo=ktor)                          |
 | ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitlabCI](https://img.shields.io/badge/-GitlabCI-CEF1D1?style=flat&logo=gitlab) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cbe3f2?style=flat&logo=kubernetes) ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=ansible) ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)                               |
 | ![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat)           | ![AWS](https://img.shields.io/badge/-AWS-3a3a3a?style=flat&logo=amazonwebservices) ![GCP](https://img.shields.io/badge/-GCP-3a3a3a?style=flat&logo=googlecloud) ![Alibaba](https://img.shields.io/badge/-Alibaba-007ACC?style=flat&logo=alibabacloud)                    |
-| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                    |
-|       
+| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                    |       
 
 </p>
 </details>
