@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
