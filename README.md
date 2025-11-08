@@ -146,16 +146,3 @@ Performing network / web penetration tests (white/black box)
 </div>
 
 </br>
-</br>
-
-<a href="https://github.com/ksatriow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksatriow&layout=compact" />
-</a>
-</br>
-</br>
-<a href="https://github.com/ksatriow">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksatriow&show_icons=true&theme=light&line_height=27" alt="Kukuh's github stats"/>
-</a>
-
-</br>
-
