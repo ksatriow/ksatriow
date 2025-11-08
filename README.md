@@ -141,7 +141,7 @@ Performing network / web penetration tests (white/black box)
             <img src="github-metrics.svg"/>
         </td>
         <td valign="center">
-            <img src="metrics.plugin.languages.details.svg"/>
+            <img src="metrics.plugin.habits.svg"/>
         </td>
     </tr>
 </table>
