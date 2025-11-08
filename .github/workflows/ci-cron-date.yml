@@ -1,9 +1,6 @@
-name: CI CRON UPDATE DATE
+name: CI Markdown Profile
 
 on:
-  # push:
-  #   branches:
-  #     - main
   schedule:
   - cron: "1 0 * * *"
 jobs:
@@ -14,22 +11,32 @@ jobs:
         with:
          persist-credentials: false
          fetch-depth: 0
-      - name: Set date variable
-        run: |
-          echo "date=$(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
-      - name: Write into DATE_NOW.md
-        run: |
-          echo $date > DATE_NOW.md
-          cat DATE_NOW.md
-      - name: Commit
-        run: |          
-          git config --local user.email "${{ secrets.EMAIL }}"
-          git config --local user.name "ksatriow"
-          git status
-          git add -A
-          git commit -m "commit of $date"
-      - name: Push
-        uses: ad-m/github-push-action@master
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
         with:
-          directory: "."
-          github_token: ${{ secrets.GIT_TOKEN }}
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Jakarta
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Jakarta
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
+          user: ksatriow
+          template: classic
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, collaborator, organization_member
+          config_timezone: Asia/Jakarta          
+          
