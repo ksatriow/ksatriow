@@ -1,8 +1,12 @@
 name: CI Markdown Profile
 
 on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
   schedule:
-  - cron: "1 0 * * *"
+    - cron: "1 0 * * *"
+
 jobs:
   cron-date:
     runs-on: ubuntu-latest
@@ -11,16 +15,6 @@ jobs:
         with:
          persist-credentials: false
          fetch-depth: 0
-      - name: Mildly interesting facts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.GIT_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Asia/Jakarta
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
